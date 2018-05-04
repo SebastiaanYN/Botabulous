@@ -1,0 +1,22 @@
+const Discord = require('discord.js');
+const { Event } = require('../Handler.js');
+const main = require('../index.js');
+
+module.exports = class Name extends Event {
+    
+    constructor() {
+        
+        super({
+            name: 'name',
+            event: 'eventName'
+        });
+        
+    }
+    
+    run(client, member) {
+        
+        
+        
+    }
+    
+}

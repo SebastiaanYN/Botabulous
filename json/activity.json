@@ -1,0 +1,46 @@
+[
+    {
+        "type": "WATCHING",
+        "text": "you"
+    },
+    {
+        "type": "PLAYING",
+        "text": "with code"
+    },
+    {
+        "type": "PLAYING",
+        "text": "with oil"
+    },
+    {
+        "type": "PLAYING",
+        "text": "with metal"
+    },
+    {
+        "type": "LISTENING",
+        "text": "your orders"
+    },
+    {
+        "type": "PLAYING",
+        "text": "with steel bolts"
+    },
+    {
+        "type": "WATCHING",
+        "text": "others talk"
+    },
+    {
+        "type": "WATCHING",
+        "text": "the scrapyard"
+    },
+    {
+        "type": "WATCHING",
+        "text": "iron man"
+    },
+    {
+        "type": "LISTENING",
+        "text": "metal parts"
+    },
+    {
+        "type": "PLAYING",
+        "text": "with other bots"
+    }
+]

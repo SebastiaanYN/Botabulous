@@ -1,0 +1,26 @@
+const Discord = require('discord.js');
+const { Command } = require('../../Handler.js');
+const main = require('../../index.js');
+
+module.exports = class Name extends Command {
+
+    constructor() {
+
+        super({
+            name: 'name',
+            alias: ['alias1', 'alias2'],
+            group: 'groupName',
+            perms: ['perm1', 'perm2', 'perm3'],
+            info: 'Command Information',
+            usage: 'Usage for the command'
+        });
+
+    }
+
+    run(client, message, args) {
+
+        
+
+    }
+
+}
